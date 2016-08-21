@@ -1,4 +1,5 @@
-# Tribute-Page
+*Tribute-Page*
 
-Simple Tribute Page to Kobe Bryant made from basic HTML 5 and CSS.
-# #Truelegend #Theblackmamba #GOAT
+A simple tribute page for Kobe Bryant, built using HTML 5 and CSS3.
+
+#Truelegend #Theblackmamba #GOAT
